@@ -1,7 +1,8 @@
 # Meta-Learning for Metaheuristic Selection on the TSP (MSc Project jzjf0647)
  
-A meta-learning pipeline that predicts the best-performing metaheuristic for a given Travelling Salesman Problem (TSP) instance, using structural features extracted from the instance rather than exhaustively running every candidate algorithm.
+A meta-learning pipeline that predicts the best-performing metaheuristic for a given Travelling Salesman Problem (TSP) instance, using structural features extracted from the instance rather than exhaustively running every candidate algorithm.  
 
+The project's complete pipeline and experimentation is contained within the ```tsp_gen.ipynb``` file.
 ## Algorithm Portfolio
  
 | Algorithm | Library | Type |
