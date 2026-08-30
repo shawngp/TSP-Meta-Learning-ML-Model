@@ -19,3 +19,7 @@ Requires Linux to execute. WSL for Windows can be used.
 pip install -r requirements.txt
 ```
 Python 3.10+ recommended (developed on 3.11).
+
+
+'''train_meta_base.csv''' and '''val_meta_base.csv''' were made as a part of the removal study of Lin-Kernighan
+'''train_meta.csv''' and '''val_meta.csv''' contain the full dataset including Lin-Kernighan
